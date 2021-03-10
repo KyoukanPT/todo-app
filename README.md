@@ -18,7 +18,7 @@
 <h3>How to use this App locally (In your computer)</h3>
 4 - Replace the code in line 7 (App.js) with the following: --> <strong>mongoose.connect('mongodb://localhost:27017/nameOfYourDatabase', {useNewUrlParser: true, useUnifiedTopology: true});<br></strong>
 5 - Open a new terminal tab and run the following command --> <strong>mongod</strong><br>
-6 - After you successfully connect to MongoDB (Step 5), open another new terminal tab and run the following command <strong>mongo</strong><br><br>
+6 - After you successfully connect to MongoDB (Step 5), open another new terminal tab and run the following command --> <strong>mongo</strong><br><br>
 
 <h3>MongoDB Documentation</h3>
 - Installation instructions - <strong> https://docs.mongodb.com/manual/administration/install-community/ </strong> <br>
