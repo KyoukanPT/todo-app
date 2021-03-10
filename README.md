@@ -16,18 +16,18 @@
 <hr>
 
 <h3>How to use this App locally (In your computer)</h3>
-4 - Replace the data in line 7 (App.js) with the following: --> <strong>mongoose.connect('mongodb://localhost:27017/nameOfYourDatabase', {useNewUrlParser: true, useUnifiedTopology: true});<br></strong>
+4 - Replace the data in line 7 (App.js) with the following: --> mongoose.connect('mongodb://localhost:27017/nameOfYourDatabase', {useNewUrlParser: true, useUnifiedTopology: true});<br></strong>
 5 - Open a new terminal tab and run the following command --> <strong>mongod</strong><br>
 6 - After you successfully connect to MongoDB (Step 5), open another new terminal tab and run the following command <strong>mongo</strong><br><br>
 
 <h3>MongoDB Documentation</h3>
-- Installation instructions - <strong> https://docs.mongodb.com/manual/administration/install-community/ </strong>
+- Installation instructions - <strong> https://docs.mongodb.com/manual/administration/install-community/ </strong> <br>
 - How to use mongo shell to query and manipulate the data in your database - <strong>https://docs.mongodb.com/manual/crud/</strong><br><br>
 
 <h3>How to use MongoDB Cloud Database (MongoDB Atlas)
-- Line 7 (App.js) - Replace <strong><ADMIN></strong> and <strong><PASSWORD></strong> with your Atlas credentials
-- Line 7 (App.js) - Replace <strong>/yourDatabaseName</strong> with the name that you want to give to your database
-- Follow this Atlas tutorial to create an Atlas cluster, connecting to it, inserting data, and querying data --> <strong>https://docs.atlas.mongodb.com/getting-started/</strong>
+- Line 7 (App.js) - Replace <strong><ADMIN></strong> and <strong><PASSWORD></strong> with your Atlas credentials <br>
+- Line 7 (App.js) - Replace <strong>/yourDatabaseName</strong> with the name that you want to give to your database <br>
+- Follow this Atlas tutorial to create an Atlas cluster, connecting to it, inserting data, and querying data --> <strong>https://docs.atlas.mongodb.com/getting-started/</strong> <br>
 
 <hr>
 
@@ -37,4 +37,4 @@
 <hr>
 
 <h3>Live App</h3>
-https://kyoukanpt-weather-app.herokuapp.com
+https://kyoukanpt-to-do-list.herokuapp.com/
