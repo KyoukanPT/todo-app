@@ -4,7 +4,7 @@ const mongoose = require("mongoose");
 const date = require(__dirname + "/date.js");
 
 const app = express();
-mongoose.connect("mongodb+srv://<ADMIN>:<PASSWORD>@cluster0.2h90q.mongodb.net/todolistDB", { useNewUrlParser: true, useUnifiedTopology: true });
+mongoose.connect("mongodb+srv://<ADMIN>:<PASSWORD>@cluster0.2h90q.mongodb.net//yourDatabaseName", { useNewUrlParser: true, useUnifiedTopology: true });
 
 const db = mongoose.connection;
 db.on("error", console.error.bind(console, "connection error: "));
