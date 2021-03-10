@@ -27,7 +27,7 @@
 <h3>How to use MongoDB Cloud Database (MongoDB Atlas)</h3>
 - Line 7 (app.js) - Replace <strong><"ADMIN"></strong> and <strong><"PASSWORD"></strong> with your Atlas credentials <br>
 - Line 7 (app.js) - Replace <strong>/yourDatabaseName</strong> with the name that you want to give to your database <br>
-- Follow this Atlas tutorial to learn how to create an Atlas account and how to get started - <strong>https://docs.atlas.mongodb.com/getting-started/</strong> <br>
+- Follow this Atlas tutorial to learn how to get started - <strong>https://docs.atlas.mongodb.com/getting-started/</strong> <br>
 
 <hr>
 
