@@ -43,4 +43,5 @@
 
 <h3>How to use the App?</h3>
 <p> - After all the above steps, go to <a href="http://localhost:3000/">Localhost</a>.</p>
-**IN PROGRESS**
+<p> - To create a new item, fill in your task on the "New Item" input, then click on the "+" button. </p>
+<p> - To remove an item, click on the respective checkbox.</p>
